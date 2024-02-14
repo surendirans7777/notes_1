@@ -1,0 +1,9 @@
+Serialization?
+
+It is the process of converting an object or data structure into a format that can be easily stored, transmitted, or reconstructed at a later time. This format is typically a sequence of bytes or a string that preserves the original object's state.
+
+
+Deserialization?
+
+It is the process of reconstructing an object or data structure from its serialized form. 
+During deserialization, the serialized data is parsed and interpreted according to the format in which it was serialized. The process involves reading the serialized data and creating a new object or data structure that represents the original data's state.
